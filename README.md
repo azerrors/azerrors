@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azer</h1>
 <h3 align="center">A Frontend Developer</h3>
-<img align="right" alt = "Coding" width = "400" src ="https://media.tenor.com/09SJ12pa9SkAAAAC/berserk.gif">
+<img align="right" alt = "Coding" width = "300" src ="https://media.tenor.com/09SJ12pa9SkAAAAC/berserk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azerrors&label=Profile%20views&color=0e75b6&style=flat" alt="azerrors" /> </p>
 
